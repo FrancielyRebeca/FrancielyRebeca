@@ -86,7 +86,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A7_contacto_%26_redes_%E2%9C%A7-0d1117?style=for-the-badge&labelColor=1f6feb&color=0d1117" alt="Contacto" />
+  <img src="https://img.shields.io/badge/%E2%9C%A7_contacto_%26_redes_%E2%9C%A7-0d1117?style=for-the-badge&labelColor=1f6feb&color=0d1117" alt="Contato" />
 </div>
 
 <br/>
