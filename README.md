@@ -25,13 +25,12 @@
 
 <br/>
 
-👋 **Olá! Sou a Franciely Rebeca.** Estudante de **Ciência da Computação**, apaixonada por resolver problemas, entender a lógica por trás de algoritmos complexos e construir uma base sólida em desenvolvimento de software.
+👋 **Olá! Sou a Franciely Rebeca.** Estudante de **Ciência da Computação**, apaixonada por entender a lógica por trás de algoritmos complexos e construir uma base sólida em desenvolvimento de software.
 
 **Atualmente o meu foco principal está em:**
 * 🎓 Aprofundar conceitos fundamentais da **Ciência da Computação** e Estruturas de Dados.
 * 🐍 Desenvolvimento de rotinas, lógica e Orientação a Objetos em **Python**.
 * 🗄️ Modelagem de dados, consultas avançadas e gestão de bases de dados relacionais com **SQL** (**MySQL** e **PostgreSQL**).
-* 🧪 Laboratório de Física e análise de dados experimentais.
 
 ---
 
@@ -57,7 +56,7 @@
 
 <br/>
 
-> 🛠️ **Em Construção:** Estou de momento a estruturar os meus primeiros projetos académicos e pessoais em **Python** e **SQL**. Em breve serão publicados aqui com documentação completa!
+> 🛠️ **Em Construção:** No momento, estou iniciando a estruturação dos meus primeiros projetos acadêmicos e pessoais em **Python** e **SQL**. Em breve serão publicados aqui com documentação completa!
 
 ---
 
